@@ -1,0 +1,6 @@
+{
+  "name": "Cravely — Reels to Meals",
+  "description": "Next-generation quick commerce connecting food discovery with instant grocery delivery. Watch recipe reels, scale ingredients, and get groceries delivered in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
